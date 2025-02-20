@@ -10,7 +10,7 @@
 - [VERSIONING](#versioning)
 ## Project Title
 
-Hello World Sample
+*Hello World Sample*
 ## Description
 
 Practice using GitHub by creating a sample repository. Make sure to add a description to help others understand your project.
